@@ -506,25 +506,6 @@ h2{
 
 
 @media only screen and (max-width: 600px) {
-  header.cabeca {
-      flex-direction: column; /* Alteração: Mudar a direção para coluna */
-      height: auto; /* Ajustar a altura conforme necessário */
-  }
-
-  nav.menu-drop {
-      flex-direction: column; /* Alteração: Mudar a direção para coluna */
-      align-items: center; /* Ajustar conforme necessário */
-  }
-
-  .menu-bot {
-      width: 100%; /* Alteração: Definir a largura como 100% */
-  }
-
-  .menu-bot button {
-      width: 100%; /* Alteração: Definir a largura como 100% */
-      margin-bottom: 5px; /* Ajustar conforme necessário */
-  }
-
-  /* Outros estilos específicos para o menu lateral */
+ 
 }
 
